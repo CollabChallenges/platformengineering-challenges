@@ -15,6 +15,11 @@ Feel free to contribute! Only open-source challenges please!
 | :cr: | [Mews](https://mews.com) | Any Programming Language | [Code →](https://github.com/MewsSystems/tech-platform-engineering-interview-task)
 | :us: | [Fender Digital]( http://www.fender.com) | Any Programming Language | [Code →](https://github.com/fenderdigital/platform-exercise)
 | :us: | [Yassir](https://yassir.com) | Terraform, CDK, Typescript | [Code →](https://github.com/YAtechnologies/platform-challenge)
+| :us: | [GlobalWebIndex](https://www.gwi.com/) | Golang | [Code →](https://github.com/GlobalWebIndex/platform-go-challenge)
+| :en: | [Form3](https://www.form3.tech/) | Golang, Terraform | [Code →](https://github.com/form3tech-oss/platform-interview)
+| :en: | [BJSS](https://www.bjss.com/) | AWS, Terraform | [Code →](https://github.com/bjss/bjss-careers-aws)
+| :en: | [Royal HaskoningDHV](http://www.rhdhv.com) | Terraform, Github Actions, Kubernetes, Docker | [Code →](https://github.com/RoyalHaskoningDHV/take-home-assignment-platform-engineer)
+| :fr: | [Ten Ten](https://github.com/tentenapp) | Any Programming Language | [Code →](https://github.com/tentenapp/platform-interview-test)
 
 ## Inspiration
 
