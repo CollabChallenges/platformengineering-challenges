@@ -27,4 +27,4 @@ Inspired on [CollabCodeTech](https://github.com/CollabCodeTech)'s [backend-chall
 
 ## License
 
-[MIT](./LICENSE) © Salaa
+[MIT](./LICENSE) © CollabChallenges
