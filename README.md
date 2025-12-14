@@ -1,9 +1,9 @@
-# Platform Challenges
+# Platform Engineering Challenges
 
 ![Last Commit Date Shield Badge](https://img.shields.io/github/last-commit/CollabChallenges/platform-challenges?color=F25A70&logo=github&style=for-the-badge)
 ![Contributors Shield Badge](https://img.shields.io/github/contributors-anon/CollabChallenges/platform-challenges?color=F25A70&logo=github&style=for-the-badge)
 
-Want to test your knowledge using real jobs challenges? Here is a public list of open-source platform challenges from jobs around the world.
+Want to test your knowledge using real jobs challenges? Here is a public list of open-source platform engineering challenges from jobs around the world.
 
 Feel free to contribute! Only open-source challenges please!
 
