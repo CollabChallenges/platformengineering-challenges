@@ -9,6 +9,7 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
+| :us: | [PipeOps](https://pipeops.io) | Golang | [Code →](https://github.com/PipeOpsHQ/golang-take-home-test)
 | :ca: | [Paytm Labs](http://paytmlabs.com/) | System Design | [Code →](https://github.com/PaytmLabs/PLAT-ENG-CHALLENGE)
 | :us: | [Fly.io](https://fly.io/) | Rust, Golang | [Code →](https://github.com/fly-hiring/platform-challenge)
 | :us: | [Gr4vy](https://gr4vy.com) | Python, Redis | [Code →](https://github.com/gr4vy/platform-challenge)
